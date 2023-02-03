@@ -8,6 +8,7 @@ package-lock.json
 framework
 dist
 .DS_Store
+.idea
 
 # Yarn
 .yarn/cache
